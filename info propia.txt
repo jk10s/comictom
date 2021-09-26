@@ -1,3 +1,6 @@
-tabnine 
-awesome flutter snepear = plugin que ayuda a autommitizar el codigo en flutter
-
+tabnine  IA
+___________________________
+-Awesome flutter snepear
+-Bracket Pair Colorizer
+-Dart 
+plugin que ayuda a autommitizar el codigo en flutter
