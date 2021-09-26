@@ -1,6 +1,11 @@
 tabnine  IA
-___________________________
+
+plugin que ayuda a autommitizar el codigo en flutter
+
 -Awesome flutter snepear
 -Bracket Pair Colorizer
 -Dart 
-plugin que ayuda a autommitizar el codigo en flutter
+-material icon theme
+-paste Json code
+-terminal
+
